@@ -97,7 +97,7 @@ public class Main
             System.out.println("Enter difficulty level(1-5)");
             dl = s.nextInt();
 
-            ConsoleHelper.main();
+            TimeWaster.main();
             switch (choice) {
                 case 1:
                     add();
